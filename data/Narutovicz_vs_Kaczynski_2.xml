@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rs:rawSignal xmlns:rs="http://signalml.org/rawsignal">
+  <rs:exportFileName>Narutovicz_vs_Kaczynski_2.raw</rs:exportFileName>
+  <rs:sourceFileFormat>
+    <rs:rawSignalInfo/>
+  </rs:sourceFileFormat>
+  <rs:samplingFrequency>2048.0</rs:samplingFrequency>
+  <rs:channelCount>4</rs:channelCount>
+  <rs:sampleCount>222976</rs:sampleCount>
+  <rs:sampleType>FLOAT</rs:sampleType>
+  <rs:byteOrder>LITTLE_ENDIAN</rs:byteOrder>
+  <rs:pageSize>20.0</rs:pageSize>
+  <rs:blocksPerPage>1</rs:blocksPerPage>
+  <rs:eegSystemName>
+    <rs:eegSystemSymbol>EEG 10-10 easy cap</rs:eegSystemSymbol>
+    <rs:eegSystemType/>
+  </rs:eegSystemName>
+  <rs:channelLabels>
+    <rs:label>ExG1</rs:label>
+    <rs:label>ExG2</rs:label>
+    <rs:label>ExG3</rs:label>
+    <rs:label>ExG4</rs:label>
+  </rs:channelLabels>
+  <rs:calibrationGain>
+    <rs:calibrationParam>0.0715</rs:calibrationParam>
+    <rs:calibrationParam>0.0715</rs:calibrationParam>
+    <rs:calibrationParam>0.0715</rs:calibrationParam>
+    <rs:calibrationParam>0.0715</rs:calibrationParam>
+  </rs:calibrationGain>
+  <rs:calibrationOffset>
+    <rs:calibrationParam>0.0</rs:calibrationParam>
+    <rs:calibrationParam>0.0</rs:calibrationParam>
+    <rs:calibrationParam>0.0</rs:calibrationParam>
+    <rs:calibrationParam>0.0</rs:calibrationParam>
+  </rs:calibrationOffset>
+  <rs:firstSampleTimestamp>1.5541205163277502E9</rs:firstSampleTimestamp>
+  <rs:isBackup>0</rs:isBackup>
+</rs:rawSignal>
